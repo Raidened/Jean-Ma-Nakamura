@@ -3,8 +3,9 @@ const client = new Discord.Client()
 const token_file = require("./token_file.json") 
 const ref_jeanma = [ 
     "Chuis pas Président, Tu peux manger HALAL",
-    "T'as un peu chuad ? J'aère, Ta vision d'la France ? J'adère !",
-    "N'est-ce-Pas", "Jean-Ma Nakamura",
+    "T'as un peu chaud ? J'aère, Ta vision d'la France ? J'adère !",
+    "N'est-ce-Pas", 
+    "Jean-Ma Nakamura",
     "Marine préfère poupou à papa",
     "Wallah mais je déconne !",
     "C'est pas comme ça qu'on fait les choses !",
