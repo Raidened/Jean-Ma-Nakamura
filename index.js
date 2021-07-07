@@ -3,7 +3,7 @@ const client = new Discord.Client()
 const token_file = require("./token_file.json") 
 const ref_jeanma = [ 
     "Chuis pas Président, Tu peux manger HALAL",
-    "Ta vision d'la France ? J'adère !",
+    "T'as un peu chuad ? J'aère, Ta vision d'la France ? J'adère !",
     "N'est-ce-Pas", "Jean-Ma Nakamura",
     "Marine préfère poupou à papa",
     "Wallah mais je déconne !",
@@ -21,7 +21,9 @@ const ref_jeanma = [
     "J'te renvoie dans ton PI",
     "Yallah famille no mali",
     "J'emploie souvent la negation",
-    "ce n'est qu'un point de détail !"
+    "Ce n'est qu'un point de détail !",
+    "Vous faites des procès pour me salir !",
+    "Tu sors des citations de leur contexte"
     ]
 client.on('ready', () => {
     console.log("Amogusus")
